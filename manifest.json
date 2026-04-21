@@ -1,19 +1,15 @@
 {
   "release_id": "2026-04-20",
-  "built_at": "2026-04-21T09:09:45+00:00",
+  "built_at": "2026-04-21T10:43:25+00:00",
   "recommendation_files": [
     "database:linxsci_recommend"
   ],
   "recommendation_source": "database",
   "recommendations_count": 2500,
   "insights_count": 2489,
-  "download_insights": true,
+  "download_insights": false,
   "insight_key_source": "database",
   "insight_prefix": null,
-  "bucket": "arxiv-processed",
-  "download_stats": {
-    "requested": 2489,
-    "downloaded": 0,
-    "skipped_existing": 2489
-  }
+  "bucket": null,
+  "download_stats": null
 }
