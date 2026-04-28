@@ -114,5 +114,6 @@ If you use this dataset, cite LinxSci and link back to:
 
 ## Version History
 
+- `2026-04-27`: update
 - `2026-04-20`: initial public release
 - Weekly cadence: every Monday we publish the previous week's recommended papers
